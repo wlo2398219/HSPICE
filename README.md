@@ -1,6 +1,4 @@
-# Project Title
-
-Fast SPICE
+# Fast SPICE
 
 ## Getting Started
 
