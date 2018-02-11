@@ -10,26 +10,8 @@ So far my program can run faster than HSPICE when the number of resisters is wit
 What things you need to install the software and how to install them
 
 ```
-Give examples
+C99
 ```
-
-### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
